@@ -1,2 +1,2 @@
 # GitFlow
-criar fluxo de trabalho
+aprendendo GitFlow
